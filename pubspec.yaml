@@ -1,0 +1,74 @@
+name: recipe_app
+description: "A new Flutter project."
+publish_to: 'none' # Prevent publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.3
+
+
+# Dependencies
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.8
+  get_it: ^9.2.1
+  google_fonts: ^8.0.2
+  shared_preferences: ^2.5.4
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  lottie: ^3.3.2
+  url_launcher: ^6.3.2
+  share_plus: ^12.0.1
+  speech_to_text:
+  permission_handler: ^12.0.1
+
+# Dev Dependencies
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  flutter_lints: ^6.0.0
+
+
+# Flutter Launcher Icons
+
+flutter_launcher_icons:
+  image_path: "assets/images/app_logo.png"
+
+  android: "launcher_icon"
+  min_sdk_android: 21
+
+ 
+  adaptive_icon_background: "#F4A64C" 
+  adaptive_icon_foreground: "assets/images/app_logo.png"
+
+  ios: true
+  remove_alpha_ios: true
+  background_color_ios: "#F4A64C"
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/data/
+
+  # Fonts
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

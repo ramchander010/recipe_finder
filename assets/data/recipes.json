@@ -1,0 +1,2319 @@
+[
+  {
+    "id": "1",
+    "title": "Aloo Paratha",
+    "imageUrl": "https://pipingpotcurry.com/wp-content/uploads/2022/11/Aloo-ka-Paratha-Recipe-Piping-Pot-Curry-991x1536.jpg",
+    "rating": 4.7,
+    "reviewCount": 230,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": [
+      "Indian"
+    ],
+    "mealTypes": [
+      "Breakfast"
+    ],
+    "tags": [
+      "Quick",
+      "North Indian",
+      "Comfort Food",
+      "Homemade"
+    ],
+    "searchableIngredients": [
+      "potato",
+      "aloo",
+      "wheat"
+    ],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fats": 12,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "quantity": 3,
+        "unit": "pc",
+        "isPrimary": true,
+        "tags": [
+          "main",
+          "boiled"
+        ]
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 2,
+        "unit": "cup",
+        "tags": [
+          "dough"
+        ]
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp",
+        "tags": [
+          "seasoning"
+        ]
+      },
+      {
+        "name": "Red Chili Powder",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "tags": [
+          "spice"
+        ]
+      },
+      {
+        "name": "Garam Masala",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "tags": [
+          "spice"
+        ]
+      },
+      {
+        "name": "Green Chili",
+        "quantity": 1,
+        "unit": "pc",
+        "tags": [
+          "fresh",
+          "spice"
+        ]
+      },
+      {
+        "name": "Coriander Leaves",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "fresh",
+          "garnish"
+        ]
+      },
+      {
+        "name": "Water",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "utility"
+        ]
+      },
+      {
+        "name": "Dry Flour",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "dusting"
+        ]
+      },
+      {
+        "name": "Butter or Ghee",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "fat",
+          "finish"
+        ]
+      }
+    ],
+    "steps": [
+      "Boil potatoes until soft, peel them, and mash smoothly without lumps.",
+      "Add salt, red chili powder, garam masala, chopped green chili, and coriander. Mix well to make a flavorful filling.",
+      "Prepare a soft dough using wheat flour and water. Knead for 5–7 minutes and let it rest for better texture.",
+      "Take a dough ball, flatten it slightly, and place 2–3 tbsp filling in the center. Seal edges properly.",
+      "Dust lightly with dry flour and roll gently into a 6–7 inch circle without breaking.",
+      "Heat a tawa and cook the paratha until bubbles appear, then flip carefully.",
+      "Apply butter or ghee on both sides and cook until golden brown and crisp.",
+      "Serve hot with curd, pickle, or butter for best taste."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Paneer Butter Masala",
+    "imageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500",
+    "rating": 4.8,
+    "reviewCount": 410,
+    "durationMinutes": 35,
+    "servings": 3,
+    "cuisines": [
+      "Indian"
+    ],
+    "mealTypes": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "Creamy",
+      "Restaurant Style",
+      "North Indian",
+      "Rich"
+    ],
+    "searchableIngredients": [
+      "paneer",
+      "butter",
+      "tomato"
+    ],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 420,
+    "protein": 14,
+    "carbs": 18,
+    "fats": 30,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": 200,
+        "unit": "g",
+        "isPrimary": true,
+        "tags": [
+          "main",
+          "protein"
+        ]
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "fat"
+        ]
+      },
+      {
+        "name": "Tomato Puree",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Cream",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "dairy"
+        ]
+      },
+      {
+        "name": "Garam Masala",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "tags": [
+          "spice"
+        ]
+      }
+    ],
+    "steps": [
+      "Heat butter in a pan on medium flame and add basic spices for aroma.",
+      "Pour tomato puree and cook until it thickens and releases oil from the sides.",
+      "Add cream and mix well to create a smooth, rich gravy.",
+      "Add paneer cubes and gently stir without breaking them.",
+      "Simmer for 5–7 minutes so flavors blend properly.",
+      "Serve hot with naan, roti, or rice."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Avocado Toast",
+    "imageUrl": "https://images.unsplash.com/photo-1588137378633-dea1336ce1e2?w=500",
+    "rating": 4.5,
+    "reviewCount": 120,
+    "durationMinutes": 10,
+    "servings": 1,
+    "cuisines": [
+      "International"
+    ],
+    "mealTypes": [
+      "Breakfast",
+      "Snack"
+    ],
+    "tags": [
+      "Healthy",
+      "Quick",
+      "Light",
+      "Modern"
+    ],
+    "searchableIngredients": [
+      "avocado",
+      "bread"
+    ],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": false,
+    "calories": 250,
+    "protein": 6,
+    "carbs": 20,
+    "fats": 15,
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": "pc",
+        "isPrimary": true,
+        "tags": [
+          "main",
+          "fresh"
+        ]
+      },
+      {
+        "name": "Bread",
+        "quantity": 2,
+        "unit": "slice",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Salt",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "tags": [
+          "seasoning"
+        ]
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 1,
+        "unit": "tsp",
+        "tags": [
+          "flavor"
+        ]
+      }
+    ],
+    "steps": [
+      "Toast bread slices until golden and slightly crisp.",
+      "Cut avocado, remove seed, and mash it in a bowl until smooth.",
+      "Add salt and lemon juice to enhance flavor and prevent browning.",
+      "Spread the avocado mixture evenly over the toast.",
+      "Serve immediately while fresh and warm."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Grilled Chicken Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=500",
+    "rating": 4.6,
+    "reviewCount": 180,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": [
+      "International"
+    ],
+    "mealTypes": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "Healthy",
+      "High Protein",
+      "Light",
+      "Fitness"
+    ],
+    "searchableIngredients": [
+      "chicken",
+      "lettuce"
+    ],
+    "difficulty": "easy",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fats": 12,
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": 200,
+        "unit": "g",
+        "isPrimary": true,
+        "tags": [
+          "main",
+          "protein"
+        ]
+      },
+      {
+        "name": "Lettuce",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "base",
+          "fresh"
+        ]
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "tags": [
+          "fat"
+        ]
+      },
+      {
+        "name": "Salt",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "tags": [
+          "seasoning"
+        ]
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "tags": [
+          "spice"
+        ]
+      }
+    ],
+    "steps": [
+      "Season chicken breast with salt and black pepper evenly.",
+      "Grill on medium heat for 6–8 minutes per side until fully cooked.",
+      "Let it rest for a minute, then slice into thin strips.",
+      "Wash and chop lettuce and other vegetables if using.",
+      "Combine everything in a bowl and drizzle olive oil.",
+      "Toss lightly and serve fresh."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Chole Bhature",
+    "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Chole-Bhature.jpg",
+    "rating": 4.8,
+    "reviewCount": 310,
+    "durationMinutes": 45,
+    "servings": 3,
+    "cuisines": [
+      "Indian"
+    ],
+    "mealTypes": [
+      "Lunch"
+    ],
+    "tags": [
+      "Punjabi",
+      "Street Food",
+      "Spicy",
+      "Popular"
+    ],
+    "searchableIngredients": [
+      "chickpeas",
+      "chole",
+      "maida"
+    ],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 450,
+    "protein": 14,
+    "carbs": 60,
+    "fats": 18,
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "quantity": 1,
+        "unit": "cup",
+        "isPrimary": true,
+        "tags": [
+          "main",
+          "boiled"
+        ]
+      },
+      {
+        "name": "Onion",
+        "quantity": 2,
+        "unit": "pc",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Tomato",
+        "quantity": 2,
+        "unit": "pc",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Ginger Garlic Paste",
+        "quantity": 1,
+        "unit": "tbsp",
+        "tags": [
+          "aroma"
+        ]
+      },
+      {
+        "name": "Chole Masala",
+        "quantity": 1,
+        "unit": "tbsp",
+        "tags": [
+          "spice"
+        ]
+      },
+      {
+        "name": "Maida",
+        "quantity": 2,
+        "unit": "cup",
+        "tags": [
+          "dough"
+        ]
+      },
+      {
+        "name": "Curd",
+        "quantity": 0.5,
+        "unit": "cup",
+        "tags": [
+          "fermentation"
+        ]
+      },
+      {
+        "name": "Oil",
+        "quantity": 2,
+        "unit": "cup",
+        "tags": [
+          "frying"
+        ]
+      }
+    ],
+    "steps": [
+      "Soak chickpeas overnight and boil until soft.",
+      "Prepare gravy using onion, tomato, and spices, then add chickpeas.",
+      "Cook until thick and flavorful.",
+      "Prepare dough using maida and curd, rest for 2 hours.",
+      "Roll into discs and deep fry until puffed.",
+      "Serve hot chole with bhature."
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Rajma Chawal",
+    "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2020/04/Rajma-Chawal.jpg",
+    "rating": 4.6,
+    "reviewCount": 280,
+    "durationMinutes": 40,
+    "servings": 3,
+    "cuisines": [
+      "Indian"
+    ],
+    "mealTypes": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "North Indian",
+      "Comfort Food",
+      "Protein Rich"
+    ],
+    "searchableIngredients": [
+      "kidney beans",
+      "rajma",
+      "rice"
+    ],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 380,
+    "protein": 13,
+    "carbs": 55,
+    "fats": 10,
+    "ingredients": [
+      {
+        "name": "Rajma (Kidney Beans)",
+        "quantity": 1,
+        "unit": "cup",
+        "isPrimary": true,
+        "tags": [
+          "main",
+          "soaked"
+        ]
+      },
+      {
+        "name": "Onion",
+        "quantity": 2,
+        "unit": "pc",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Tomato",
+        "quantity": 2,
+        "unit": "pc",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Ginger Garlic Paste",
+        "quantity": 1,
+        "unit": "tbsp",
+        "tags": [
+          "aroma"
+        ]
+      },
+      {
+        "name": "Rajma Masala",
+        "quantity": 1,
+        "unit": "tbsp",
+        "tags": [
+          "spice"
+        ]
+      },
+      {
+        "name": "Rice",
+        "quantity": 2,
+        "unit": "cup",
+        "tags": [
+          "side"
+        ]
+      },
+      {
+        "name": "Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "cooking"
+        ]
+      }
+    ],
+    "steps": [
+      "Soak rajma overnight and pressure cook until soft.",
+      "Prepare gravy using onion, tomato, and spices.",
+      "Add cooked rajma and simmer for rich flavor.",
+      "Cook rice separately until fluffy.",
+      "Serve hot rajma with steamed rice."
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Masala Dosa",
+    "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/masala-dosa.jpg",
+    "rating": 4.9,
+    "reviewCount": 400,
+    "durationMinutes": 35,
+    "servings": 3,
+    "cuisines": [
+      "Indian"
+    ],
+    "mealTypes": [
+      "Breakfast"
+    ],
+    "tags": [
+      "South Indian",
+      "Crispy",
+      "Fermented",
+      "Classic"
+    ],
+    "searchableIngredients": [
+      "rice",
+      "urad dal",
+      "potato"
+    ],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 300,
+    "protein": 7,
+    "carbs": 50,
+    "fats": 8,
+    "ingredients": [
+      {
+        "name": "Rice",
+        "quantity": 2,
+        "unit": "cup",
+        "isPrimary": true,
+        "tags": [
+          "batter"
+        ]
+      },
+      {
+        "name": "Urad Dal",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "batter"
+        ]
+      },
+      {
+        "name": "Potato",
+        "quantity": 3,
+        "unit": "pc",
+        "tags": [
+          "filling",
+          "boiled"
+        ]
+      },
+      {
+        "name": "Mustard Seeds",
+        "quantity": 1,
+        "unit": "tsp",
+        "tags": [
+          "tempering"
+        ]
+      },
+      {
+        "name": "Curry Leaves",
+        "quantity": 10,
+        "unit": "pc",
+        "tags": [
+          "aroma"
+        ]
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "pc",
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "cooking"
+        ]
+      }
+    ],
+    "steps": [
+      "Soak rice and urad dal, grind into smooth batter and ferment overnight.",
+      "Prepare potato filling with mustard seeds, curry leaves, onions, and spices.",
+      "Spread batter thinly on hot tawa into a crisp dosa.",
+      "Add filling in center and fold.",
+      "Serve hot with chutney and sambar."
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Spaghetti Carbonara",
+    "imageUrl": "https://www.simplyrecipes.com/thmb/Spaghetti-Carbonara.jpg",
+    "rating": 4.7,
+    "reviewCount": 350,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": [
+      "Italian"
+    ],
+    "mealTypes": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "Classic",
+      "Creamy",
+      "Quick"
+    ],
+    "searchableIngredients": [
+      "pasta",
+      "egg",
+      "cheese"
+    ],
+    "difficulty": "medium",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 520,
+    "protein": 18,
+    "carbs": 60,
+    "fats": 22,
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "quantity": 200,
+        "unit": "g",
+        "isPrimary": true,
+        "tags": [
+          "pasta"
+        ]
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2,
+        "unit": "pc",
+        "tags": [
+          "sauce"
+        ]
+      },
+      {
+        "name": "Parmesan Cheese",
+        "quantity": 0.5,
+        "unit": "cup",
+        "tags": [
+          "cheese"
+        ]
+      },
+      {
+        "name": "Bacon",
+        "quantity": 100,
+        "unit": "g",
+        "tags": [
+          "meat"
+        ]
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "clove",
+        "tags": [
+          "aroma"
+        ]
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 1,
+        "unit": "tsp",
+        "tags": [
+          "seasoning"
+        ]
+      }
+    ],
+    "steps": [
+      "Cook spaghetti until al dente and reserve some pasta water.",
+      "Cook bacon until crispy and add garlic.",
+      "Whisk eggs and cheese in a bowl.",
+      "Combine hot pasta with bacon, then quickly mix in egg mixture.",
+      "Add pasta water if needed for creamy texture.",
+      "Serve immediately with extra cheese."
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Chicken Stir Fry",
+    "imageUrl": "https://www.recipetineats.com/wp-content/uploads/2018/03/Chicken-Stir-Fry.jpg",
+    "rating": 4.6,
+    "reviewCount": 290,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": [
+      "Chinese"
+    ],
+    "mealTypes": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "Quick",
+      "Healthy",
+      "High Protein"
+    ],
+    "searchableIngredients": [
+      "chicken",
+      "soy sauce",
+      "vegetables"
+    ],
+    "difficulty": "easy",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fats": 18,
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": 250,
+        "unit": "g",
+        "isPrimary": true,
+        "tags": [
+          "protein"
+        ]
+      },
+      {
+        "name": "Bell Pepper",
+        "quantity": 1,
+        "unit": "pc",
+        "tags": [
+          "vegetable"
+        ]
+      },
+      {
+        "name": "Broccoli",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "vegetable"
+        ]
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "sauce"
+        ]
+      },
+      {
+        "name": "Garlic",
+        "quantity": 3,
+        "unit": "clove",
+        "tags": [
+          "aroma"
+        ]
+      },
+      {
+        "name": "Cornstarch",
+        "quantity": 1,
+        "unit": "tsp",
+        "tags": [
+          "thickener"
+        ]
+      },
+      {
+        "name": "Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "tags": [
+          "cooking"
+        ]
+      }
+    ],
+    "steps": [
+      "Slice chicken thinly and marinate with soy sauce and cornstarch.",
+      "Heat oil in a wok and sauté garlic.",
+      "Add chicken and cook until browned.",
+      "Add vegetables and stir fry on high heat.",
+      "Cook until vegetables are tender but crisp.",
+      "Serve hot with rice or noodles."
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Veggie Tacos",
+    "imageUrl": "https://www.loveandlemons.com/wp-content/uploads/2019/07/vegan-tacos.jpg",
+    "rating": 4.5,
+    "reviewCount": 210,
+    "durationMinutes": 20,
+    "servings": 3,
+    "cuisines": [
+      "Mexican"
+    ],
+    "mealTypes": [
+      "Lunch",
+      "Dinner"
+    ],
+    "tags": [
+      "Street Food",
+      "Vegan",
+      "Quick"
+    ],
+    "searchableIngredients": [
+      "tortilla",
+      "beans",
+      "vegetables"
+    ],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": false,
+    "calories": 280,
+    "protein": 9,
+    "carbs": 40,
+    "fats": 10,
+    "ingredients": [
+      {
+        "name": "Tortillas",
+        "quantity": 6,
+        "unit": "pc",
+        "isPrimary": true,
+        "tags": [
+          "base"
+        ]
+      },
+      {
+        "name": "Black Beans",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "protein"
+        ]
+      },
+      {
+        "name": "Lettuce",
+        "quantity": 1,
+        "unit": "cup",
+        "tags": [
+          "fresh"
+        ]
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "unit": "pc",
+        "tags": [
+          "fresh"
+        ]
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "pc",
+        "tags": [
+          "fresh"
+        ]
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": "pc",
+        "tags": [
+          "topping"
+        ]
+      },
+      {
+        "name": "Lime Juice",
+        "quantity": 1,
+        "unit": "tbsp",
+        "tags": [
+          "flavor"
+        ]
+      }
+    ],
+    "steps": [
+      "Warm tortillas on a pan.",
+      "Prepare filling by mixing beans, chopped veggies, and lime juice.",
+      "Place filling inside tortillas.",
+      "Top with avocado slices.",
+      "Serve fresh with salsa or sauce."
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Greek Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?w=500",
+    "rating": 4.6,
+    "reviewCount": 180,
+    "durationMinutes": 15,
+    "servings": 2,
+    "cuisines": ["Greek"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Healthy", "Fresh", "Quick"],
+    "searchableIngredients": ["cucumber", "tomato", "feta"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 220,
+    "protein": 6,
+    "carbs": 12,
+    "fats": 16,
+    "ingredients": [
+      {"name": "Cucumber", "quantity": 1, "unit": "pc", "tags": ["chopped"]},
+      {"name": "Tomatoes", "quantity": 2, "unit": "pc", "tags": ["chopped"]},
+      {"name": "Onion", "quantity": 0.5, "unit": "pc", "tags": ["sliced"]},
+      {"name": "Feta Cheese", "quantity": 100, "unit": "g", "tags": ["crumbled"]},
+      {"name": "Olives", "quantity": 10, "unit": "pc"},
+      {"name": "Olive Oil", "quantity": 2, "unit": "tbsp"},
+      {"name": "Oregano", "quantity": 1, "unit": "tsp"}
+    ],
+    "steps": [
+      "Wash cucumber and tomatoes thoroughly under running water.",
+      "Chop cucumber and tomatoes into medium-sized cubes.",
+      "Slice onion thinly for a mild crunch.",
+      "Combine all vegetables in a large mixing bowl.",
+      "Add olives and crumble feta cheese on top.",
+      "Drizzle olive oil evenly and sprinkle oregano.",
+      "Toss gently and serve fresh."
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Chocolate Brownie",
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500",
+    "rating": 4.9,
+    "reviewCount": 520,
+    "durationMinutes": 40,
+    "servings": 4,
+    "cuisines": ["American"],
+    "mealTypes": ["Dessert"],
+    "tags": ["Sweet", "Baked", "Chocolate"],
+    "searchableIngredients": ["chocolate", "flour", "butter"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fats": 20,
+    "ingredients": [
+      {"name": "Dark Chocolate", "quantity": 150, "unit": "g"},
+      {"name": "Butter", "quantity": 100, "unit": "g"},
+      {"name": "Sugar", "quantity": 1, "unit": "cup"},
+      {"name": "Flour", "quantity": 0.5, "unit": "cup"},
+      {"name": "Eggs", "quantity": 2, "unit": "pc"}
+    ],
+    "steps": [
+      "Preheat oven to 180°C and grease a baking tray.",
+      "Melt chocolate and butter together using double boiler method.",
+      "In a bowl, whisk eggs and sugar until fluffy.",
+      "Mix melted chocolate into egg mixture slowly.",
+      "Add flour and fold gently without overmixing.",
+      "Pour batter into tray and spread evenly.",
+      "Bake for 25–30 minutes until set.",
+      "Cool, cut into squares, and serve."
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Chicken Biryani",
+    "imageUrl": "https://images.unsplash.com/photo-1625944237331-9f7d3dba1e0b?w=500",
+    "rating": 4.8,
+    "reviewCount": 600,
+    "durationMinutes": 60,
+    "servings": 4,
+    "cuisines": ["Indian"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Spicy", "Rice", "Festive"],
+    "searchableIngredients": ["chicken", "rice", "spices"],
+    "difficulty": "hard",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 500,
+    "protein": 25,
+    "carbs": 60,
+    "fats": 18,
+    "ingredients": [
+      {"name": "Chicken", "quantity": 500, "unit": "g"},
+      {"name": "Basmati Rice", "quantity": 2, "unit": "cup"},
+      {"name": "Onion", "quantity": 2, "unit": "pc"},
+      {"name": "Yogurt", "quantity": 1, "unit": "cup"},
+      {"name": "Biryani Masala", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash and soak rice for 30 minutes.",
+      "Marinate chicken with yogurt and spices for 20 minutes.",
+      "Fry sliced onions until golden brown.",
+      "Cook chicken mixture until tender and flavorful.",
+      "Boil rice until 70% cooked and drain water.",
+      "Layer rice and chicken alternately in a pot.",
+      "Cover and cook on low heat (dum) for 20 minutes.",
+      "Serve hot with raita."
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Caesar Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=500",
+    "rating": 4.5,
+    "reviewCount": 200,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Lunch"],
+    "tags": ["Salad", "Classic"],
+    "searchableIngredients": ["lettuce", "cheese", "croutons"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 260,
+    "protein": 7,
+    "carbs": 18,
+    "fats": 18,
+    "ingredients": [
+      {"name": "Lettuce", "quantity": 1, "unit": "bunch"},
+      {"name": "Parmesan Cheese", "quantity": 50, "unit": "g"},
+      {"name": "Croutons", "quantity": 1, "unit": "cup"},
+      {"name": "Caesar Dressing", "quantity": 3, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash lettuce leaves and pat dry completely.",
+      "Chop into bite-sized pieces and place in a bowl.",
+      "Add croutons and grated parmesan cheese.",
+      "Pour dressing evenly over the salad.",
+      "Toss gently to coat all ingredients.",
+      "Serve immediately for best texture."
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Mango Smoothie",
+    "imageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=500",
+    "rating": 4.7,
+    "reviewCount": 150,
+    "durationMinutes": 10,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Breakfast"],
+    "tags": ["Drink", "Healthy"],
+    "searchableIngredients": ["mango", "milk"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 180,
+    "protein": 4,
+    "carbs": 30,
+    "fats": 3,
+    "ingredients": [
+      {"name": "Mango", "quantity": 2, "unit": "pc"},
+      {"name": "Milk", "quantity": 1, "unit": "cup"},
+      {"name": "Sugar", "quantity": 1, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Peel mangoes and cut into small chunks.",
+      "Add mango, milk, and sugar into blender.",
+      "Blend until smooth and creamy.",
+      "Pour into glasses and serve chilled."
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Veg Fried Rice",
+    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500",
+    "rating": 4.5,
+    "reviewCount": 220,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": ["Chinese"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Quick", "Street Food"],
+    "searchableIngredients": ["rice", "vegetables"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 300,
+    "protein": 8,
+    "carbs": 50,
+    "fats": 8,
+    "ingredients": [
+      {"name": "Cooked Rice", "quantity": 2, "unit": "cup"},
+      {"name": "Mixed Vegetables", "quantity": 1, "unit": "cup"},
+      {"name": "Soy Sauce", "quantity": 2, "unit": "tbsp"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"},
+      {"name": "Oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Heat oil in a wok and add chopped garlic.",
+      "Stir fry vegetables on high flame for 3–4 minutes.",
+      "Add cooked rice and mix well.",
+      "Pour soy sauce and toss evenly.",
+      "Cook for 2 minutes and serve hot."
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Pancakes",
+    "imageUrl": "https://images.unsplash.com/photo-1587735243615-c03f25aaff15?w=500",
+    "rating": 4.8,
+    "reviewCount": 310,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": ["American"],
+    "mealTypes": ["Breakfast"],
+    "tags": ["Sweet", "Quick"],
+    "searchableIngredients": ["flour", "milk"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 280,
+    "protein": 6,
+    "carbs": 40,
+    "fats": 10,
+    "ingredients": [
+      {"name": "Flour", "quantity": 1, "unit": "cup"},
+      {"name": "Milk", "quantity": 1, "unit": "cup"},
+      {"name": "Egg", "quantity": 1, "unit": "pc"},
+      {"name": "Sugar", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Mix flour, milk, egg, and sugar into smooth batter.",
+      "Heat pan and lightly grease it.",
+      "Pour batter and cook until bubbles form.",
+      "Flip and cook other side until golden.",
+      "Serve with syrup."
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Fruit Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1572441713132-51c75654db73?w=500",
+    "rating": 4.4,
+    "reviewCount": 120,
+    "durationMinutes": 10,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Snack"],
+    "tags": ["Healthy", "Fresh"],
+    "searchableIngredients": ["fruits"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fats": 1,
+    "ingredients": [
+      {"name": "Apple", "quantity": 1, "unit": "pc"},
+      {"name": "Banana", "quantity": 1, "unit": "pc"},
+      {"name": "Orange", "quantity": 1, "unit": "pc"}
+    ],
+    "steps": [
+      "Wash all fruits properly.",
+      "Peel and chop into small pieces.",
+      "Mix in a bowl and serve fresh."
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Tomato Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1604908177522-432b8d6c1c1c?w=500",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "durationMinutes": 30,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Dinner"],
+    "tags": ["Comfort"],
+    "searchableIngredients": ["tomato"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fats": 3,
+    "ingredients": [
+      {"name": "Tomatoes", "quantity": 4, "unit": "pc"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"},
+      {"name": "Butter", "quantity": 1, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash and chop tomatoes.",
+      "Boil tomatoes until soft.",
+      "Blend into smooth puree.",
+      "Heat butter and cook puree for 5 minutes.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Banana Shake",
+    "imageUrl": "https://images.unsplash.com/photo-1589308078054-8323c3b1c55d?w=500",
+    "rating": 4.5,
+    "reviewCount": 90,
+    "durationMinutes": 5,
+    "servings": 1,
+    "cuisines": ["Global"],
+    "mealTypes": ["Drink"],
+    "tags": ["Quick"],
+    "searchableIngredients": ["banana"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fats": 4,
+    "ingredients": [
+      {"name": "Banana", "quantity": 1, "unit": "pc"},
+      {"name": "Milk", "quantity": 1, "unit": "cup"}
+    ],
+    "steps": [
+      "Peel banana and cut into pieces.",
+      "Blend with milk until smooth.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Greek Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1568600891621-50f697b9a1c6?w=500",
+    "rating": 4.6,
+    "reviewCount": 180,
+    "durationMinutes": 15,
+    "servings": 2,
+    "cuisines": ["Greek"],
+    "mealTypes": ["Lunch", "Snack"],
+    "tags": ["Healthy", "Fresh", "Salad"],
+    "searchableIngredients": ["cucumber", "feta", "olive"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 220,
+    "protein": 6,
+    "carbs": 12,
+    "fats": 16,
+    "ingredients": [
+      {"name": "Cucumber", "quantity": 1, "unit": "pc"},
+      {"name": "Tomato", "quantity": 2, "unit": "pc"},
+      {"name": "Feta Cheese", "quantity": 100, "unit": "g"},
+      {"name": "Olives", "quantity": 10, "unit": "pc"},
+      {"name": "Olive Oil", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash and chop cucumber and tomatoes into bite-size pieces.",
+      "Slice olives and cube feta cheese.",
+      "Combine everything in a bowl.",
+      "Drizzle olive oil and toss gently.",
+      "Serve fresh."
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Fudgy Chocolate Brownies",
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500",
+    "rating": 4.9,
+    "reviewCount": 500,
+    "durationMinutes": 40,
+    "servings": 4,
+    "cuisines": ["American"],
+    "mealTypes": ["Dessert"],
+    "tags": ["Fudgy", "Chocolate", "Baked"],
+    "searchableIngredients": ["chocolate", "butter"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 480,
+    "protein": 6,
+    "carbs": 52,
+    "fats": 28,
+    "ingredients": [
+      {"name": "Dark Chocolate", "quantity": 200, "unit": "g"},
+      {"name": "Butter", "quantity": 120, "unit": "g"},
+      {"name": "Eggs", "quantity": 2, "unit": "pc"},
+      {"name": "Flour", "quantity": 0.75, "unit": "cup"},
+      {"name": "Sugar", "quantity": 0.75, "unit": "cup"}
+    ],
+    "steps": [
+      "Melt chocolate and butter together.",
+      "Whisk eggs and sugar until fluffy.",
+      "Combine melted mixture with eggs.",
+      "Fold in flour gently.",
+      "Pour into tray and bake at 180°C for 25 minutes.",
+      "Let cool before cutting for fudgy texture."
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Caesar Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=500",
+    "rating": 4.5,
+    "reviewCount": 200,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Lunch"],
+    "tags": ["Salad", "Classic"],
+    "searchableIngredients": ["lettuce", "cheese"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 260,
+    "protein": 7,
+    "carbs": 15,
+    "fats": 18,
+    "ingredients": [
+      {"name": "Lettuce", "quantity": 1, "unit": "cup"},
+      {"name": "Croutons", "quantity": 1, "unit": "cup"},
+      {"name": "Parmesan Cheese", "quantity": 50, "unit": "g"},
+      {"name": "Caesar Dressing", "quantity": 3, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash and chop lettuce.",
+      "Add croutons and grated cheese.",
+      "Pour dressing and toss well.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Mango Smoothie",
+    "imageUrl": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=500",
+    "rating": 4.7,
+    "reviewCount": 150,
+    "durationMinutes": 10,
+    "servings": 1,
+    "cuisines": ["Global"],
+    "mealTypes": ["Drink"],
+    "tags": ["Refreshing", "Sweet"],
+    "searchableIngredients": ["mango"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 180,
+    "protein": 4,
+    "carbs": 35,
+    "fats": 3,
+    "ingredients": [
+      {"name": "Mango", "quantity": 1, "unit": "pc"},
+      {"name": "Milk", "quantity": 1, "unit": "cup"}
+    ],
+    "steps": [
+      "Peel and chop mango.",
+      "Blend with milk until smooth.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Garlic Bread",
+    "imageUrl": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=500",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Snack"],
+    "tags": ["Quick", "Side"],
+    "searchableIngredients": ["bread", "garlic"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 300,
+    "protein": 6,
+    "carbs": 35,
+    "fats": 15,
+    "ingredients": [
+      {"name": "Bread", "quantity": 4, "unit": "slice"},
+      {"name": "Garlic", "quantity": 3, "unit": "clove"},
+      {"name": "Butter", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Crush garlic and mix with butter.",
+      "Spread mixture on bread slices.",
+      "Toast in oven until golden.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Chicken Biryani",
+    "imageUrl": "https://images.unsplash.com/photo-1604908554027-95c7b2e1d9e6?w=500",
+    "rating": 4.9,
+    "reviewCount": 620,
+    "durationMinutes": 60,
+    "servings": 4,
+    "cuisines": ["Indian"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Spicy", "Festive"],
+    "searchableIngredients": ["chicken", "rice"],
+    "difficulty": "hard",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fats": 20,
+    "ingredients": [
+      {"name": "Chicken", "quantity": 500, "unit": "g"},
+      {"name": "Basmati Rice", "quantity": 2, "unit": "cup"},
+      {"name": "Yogurt", "quantity": 1, "unit": "cup"},
+      {"name": "Onion", "quantity": 2, "unit": "pc"},
+      {"name": "Biryani Masala", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash and soak rice for 30 minutes.",
+      "Marinate chicken with yogurt and spices.",
+      "Fry sliced onions until golden brown.",
+      "Cook chicken until tender.",
+      "Layer rice and chicken, cook on low heat (dum) for 20 minutes.",
+      "Serve hot with raita."
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Vegetable Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=500",
+    "rating": 4.4,
+    "reviewCount": 140,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Dinner"],
+    "tags": ["Healthy", "Light"],
+    "searchableIngredients": ["vegetables"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 130,
+    "protein": 4,
+    "carbs": 20,
+    "fats": 3,
+    "ingredients": [
+      {"name": "Mixed Vegetables", "quantity": 2, "unit": "cup"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"},
+      {"name": "Water", "quantity": 3, "unit": "cup"}
+    ],
+    "steps": [
+      "Wash and chop vegetables into small pieces.",
+      "Boil water and add vegetables.",
+      "Add garlic and cook for 10–15 minutes.",
+      "Season with salt and serve hot."
+    ]
+  },
+  {
+    "id": "28",
+    "title": "French Fries",
+    "imageUrl": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=500",
+    "rating": 4.5,
+    "reviewCount": 300,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": ["American"],
+    "mealTypes": ["Snack"],
+    "tags": ["Crispy", "Fast Food"],
+    "searchableIngredients": ["potato"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 350,
+    "protein": 4,
+    "carbs": 45,
+    "fats": 18,
+    "ingredients": [
+      {"name": "Potatoes", "quantity": 3, "unit": "pc"},
+      {"name": "Oil", "quantity": 2, "unit": "cup"},
+      {"name": "Salt", "quantity": 1, "unit": "tsp"}
+    ],
+    "steps": [
+      "Wash, peel, and cut potatoes into thin strips.",
+      "Soak in water for 10 minutes and dry.",
+      "Deep fry until golden and crispy.",
+      "Sprinkle salt and serve hot."
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Ice Cream Sundae",
+    "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500",
+    "rating": 4.8,
+    "reviewCount": 280,
+    "durationMinutes": 10,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Dessert"],
+    "tags": ["Sweet", "Cold"],
+    "searchableIngredients": ["ice cream"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 400,
+    "protein": 6,
+    "carbs": 50,
+    "fats": 20,
+    "ingredients": [
+      {"name": "Vanilla Ice Cream", "quantity": 2, "unit": "scoop"},
+      {"name": "Chocolate Syrup", "quantity": 2, "unit": "tbsp"},
+      {"name": "Nuts", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Place ice cream scoops in a bowl.",
+      "Drizzle chocolate syrup on top.",
+      "Sprinkle nuts and serve immediately."
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Caprese Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1604908177451-b0a8d4e0e8c1?w=500",
+    "rating": 4.6,
+    "reviewCount": 160,
+    "durationMinutes": 10,
+    "servings": 2,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Snack", "Lunch"],
+    "tags": ["Fresh", "Salad"],
+    "searchableIngredients": ["tomato", "cheese"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 250,
+    "protein": 8,
+    "carbs": 10,
+    "fats": 18,
+    "ingredients": [
+      {"name": "Tomatoes", "quantity": 2, "unit": "pc"},
+      {"name": "Mozzarella Cheese", "quantity": 100, "unit": "g"},
+      {"name": "Basil Leaves", "quantity": 6, "unit": "pc"},
+      {"name": "Olive Oil", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash and slice tomatoes and cheese.",
+      "Arrange alternately on a plate.",
+      "Add basil leaves on top.",
+      "Drizzle olive oil and serve fresh."
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Sushi Rolls",
+    "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=500",
+    "rating": 4.7,
+    "reviewCount": 350,
+    "durationMinutes": 50,
+    "servings": 3,
+    "cuisines": ["Japanese"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Seafood", "Rice"],
+    "searchableIngredients": ["rice", "fish"],
+    "difficulty": "hard",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fats": 6,
+    "ingredients": [
+      {"name": "Sushi Rice", "quantity": 2, "unit": "cup"},
+      {"name": "Nori Sheets", "quantity": 4, "unit": "pc"},
+      {"name": "Fish", "quantity": 200, "unit": "g"},
+      {"name": "Cucumber", "quantity": 1, "unit": "pc"}
+    ],
+    "steps": [
+      "Wash and cook sushi rice properly.",
+      "Slice fish and cucumber into thin strips.",
+      "Place nori sheet and spread rice evenly.",
+      "Add fillings and roll tightly.",
+      "Cut into pieces and serve."
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Omelette",
+    "imageUrl": "https://images.unsplash.com/photo-1585238342028-4c2c9c4a27c1?w=500",
+    "rating": 4.5,
+    "reviewCount": 200,
+    "durationMinutes": 10,
+    "servings": 1,
+    "cuisines": ["Global"],
+    "mealTypes": ["Breakfast"],
+    "tags": ["Protein", "Quick"],
+    "searchableIngredients": ["egg"],
+    "difficulty": "easy",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 180,
+    "protein": 12,
+    "carbs": 2,
+    "fats": 14,
+    "ingredients": [
+      {"name": "Eggs", "quantity": 2, "unit": "pc"},
+      {"name": "Onion", "quantity": 1, "unit": "pc"},
+      {"name": "Oil", "quantity": 1, "unit": "tsp"}
+    ],
+    "steps": [
+      "Crack eggs and whisk properly.",
+      "Chop onion finely.",
+      "Heat oil in pan and pour egg mixture.",
+      "Cook both sides until set.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Chocolate Milkshake",
+    "imageUrl": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500",
+    "rating": 4.8,
+    "reviewCount": 240,
+    "durationMinutes": 8,
+    "servings": 1,
+    "cuisines": ["Global"],
+    "mealTypes": ["Drink"],
+    "tags": ["Sweet", "Cold"],
+    "searchableIngredients": ["chocolate", "milk"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fats": 12,
+    "ingredients": [
+      {"name": "Milk", "quantity": 1, "unit": "cup"},
+      {"name": "Chocolate Syrup", "quantity": 3, "unit": "tbsp"},
+      {"name": "Ice Cream", "quantity": 1, "unit": "scoop"}
+    ],
+    "steps": [
+      "Add all ingredients into blender.",
+      "Blend until smooth and creamy.",
+      "Pour into glass and serve chilled."
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Quinoa Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500",
+    "rating": 4.6,
+    "reviewCount": 130,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": ["Mediterranean"],
+    "mealTypes": ["Lunch"],
+    "tags": ["Healthy", "Protein"],
+    "searchableIngredients": ["quinoa"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 260,
+    "protein": 9,
+    "carbs": 30,
+    "fats": 10,
+    "ingredients": [
+      {"name": "Quinoa", "quantity": 1, "unit": "cup"},
+      {"name": "Cucumber", "quantity": 1, "unit": "pc"},
+      {"name": "Tomato", "quantity": 1, "unit": "pc"},
+      {"name": "Olive Oil", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Wash quinoa and cook until fluffy.",
+      "Chop vegetables into small pieces.",
+      "Mix quinoa with vegetables.",
+      "Add olive oil and toss well.",
+      "Serve fresh."
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Cheese Pizza",
+    "imageUrl": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?w=500",
+    "rating": 4.9,
+    "reviewCount": 700,
+    "durationMinutes": 40,
+    "servings": 3,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Cheesy", "Fast Food"],
+    "searchableIngredients": ["cheese", "flour"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 500,
+    "protein": 15,
+    "carbs": 55,
+    "fats": 20,
+    "ingredients": [
+      {"name": "Pizza Base", "quantity": 1, "unit": "pc"},
+      {"name": "Cheese", "quantity": 200, "unit": "g"},
+      {"name": "Tomato Sauce", "quantity": 1, "unit": "cup"}
+    ],
+    "steps": [
+      "Spread sauce evenly on pizza base.",
+      "Add grated cheese generously.",
+      "Bake in oven at 200°C for 15 minutes.",
+      "Slice and serve hot."
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Falafel Wrap",
+    "imageUrl": "https://images.unsplash.com/photo-1543353071-087092ec393a?w=500",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "durationMinutes": 35,
+    "servings": 2,
+    "cuisines": ["Middle Eastern"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Street Food", "Protein"],
+    "searchableIngredients": ["chickpeas"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": false,
+    "calories": 380,
+    "protein": 12,
+    "carbs": 45,
+    "fats": 14,
+    "ingredients": [
+      {"name": "Chickpeas", "quantity": 1, "unit": "cup"},
+      {"name": "Garlic", "quantity": 2, "unit": "clove"},
+      {"name": "Flour", "quantity": 2, "unit": "tbsp"},
+      {"name": "Wrap Bread", "quantity": 2, "unit": "pc"}
+    ],
+    "steps": [
+      "Soak chickpeas overnight and grind coarsely.",
+      "Mix garlic, spices, and flour into mixture.",
+      "Shape into balls and deep fry until crispy.",
+      "Place in wrap with veggies and sauce.",
+      "Roll and serve."
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Beef Burger",
+    "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=500",
+    "rating": 4.7,
+    "reviewCount": 420,
+    "durationMinutes": 30,
+    "servings": 2,
+    "cuisines": ["American"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Fast Food", "Juicy"],
+    "searchableIngredients": ["beef"],
+    "difficulty": "medium",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 600,
+    "protein": 25,
+    "carbs": 40,
+    "fats": 35,
+    "ingredients": [
+      {"name": "Beef Patty", "quantity": 2, "unit": "pc"},
+      {"name": "Burger Bun", "quantity": 2, "unit": "pc"},
+      {"name": "Cheese", "quantity": 2, "unit": "slice"},
+      {"name": "Lettuce", "quantity": 1, "unit": "cup"}
+    ],
+    "steps": [
+      "Cook beef patty on grill until done.",
+      "Toast burger buns lightly.",
+      "Assemble with lettuce, cheese, and patty.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Hakka Noodles",
+    "imageUrl": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=500",
+    "rating": 4.5,
+    "reviewCount": 260,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": ["Chinese"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Street Food", "Quick"],
+    "searchableIngredients": ["noodles"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": false,
+    "calories": 320,
+    "protein": 7,
+    "carbs": 50,
+    "fats": 10,
+    "ingredients": [
+      {"name": "Noodles", "quantity": 200, "unit": "g"},
+      {"name": "Vegetables", "quantity": 1, "unit": "cup"},
+      {"name": "Soy Sauce", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Boil noodles and drain properly.",
+      "Stir fry vegetables on high heat.",
+      "Add noodles and soy sauce.",
+      "Mix well and cook for 2 minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Strawberry Cheesecake",
+    "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500",
+    "rating": 4.9,
+    "reviewCount": 510,
+    "durationMinutes": 90,
+    "servings": 4,
+    "cuisines": ["American"],
+    "mealTypes": ["Dessert"],
+    "tags": ["Sweet", "Rich"],
+    "searchableIngredients": ["cheese", "strawberry"],
+    "difficulty": "hard",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 520,
+    "protein": 8,
+    "carbs": 45,
+    "fats": 32,
+    "ingredients": [
+      {"name": "Cream Cheese", "quantity": 200, "unit": "g"},
+      {"name": "Biscuits", "quantity": 150, "unit": "g"},
+      {"name": "Butter", "quantity": 80, "unit": "g"},
+      {"name": "Strawberries", "quantity": 100, "unit": "g"}
+    ],
+    "steps": [
+      "Crush biscuits and mix with melted butter.",
+      "Press mixture into base and refrigerate.",
+      "Prepare cream cheese filling and spread over base.",
+      "Top with strawberries.",
+      "Chill for few hours before serving."
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Grilled Salmon",
+    "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=500",
+    "rating": 4.8,
+    "reviewCount": 300,
+    "durationMinutes": 25,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Dinner"],
+    "tags": ["Healthy", "Protein"],
+    "searchableIngredients": ["salmon"],
+    "difficulty": "medium",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 400,
+    "protein": 28,
+    "carbs": 5,
+    "fats": 30,
+    "ingredients": [
+      {"name": "Salmon", "quantity": 2, "unit": "fillet"},
+      {"name": "Lemon", "quantity": 1, "unit": "pc"},
+      {"name": "Olive Oil", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Clean and season salmon with salt and lemon.",
+      "Brush with olive oil.",
+      "Grill for 10–12 minutes until cooked.",
+      "Serve hot."
+    ]
+  },
+    {
+    "id": "41",
+    "title": "Pancakes",
+    "imageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=500",
+    "rating": 4.7,
+    "reviewCount": 410,
+    "durationMinutes": 20,
+    "servings": 2,
+    "cuisines": ["Global"],
+    "mealTypes": ["Breakfast"],
+    "tags": ["Fluffy", "Sweet"],
+    "searchableIngredients": ["flour", "milk"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 350,
+    "protein": 8,
+    "carbs": 50,
+    "fats": 12,
+    "ingredients": [
+      {"name": "Flour", "quantity": 1, "unit": "cup"},
+      {"name": "Milk", "quantity": 1, "unit": "cup"},
+      {"name": "Egg", "quantity": 1, "unit": "pc"},
+      {"name": "Sugar", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Mix flour, milk, egg, and sugar into batter.",
+      "Heat pan and pour batter.",
+      "Cook until bubbles form, then flip.",
+      "Serve with syrup."
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Mango Smoothie",
+    "imageUrl": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=500",
+    "rating": 4.6,
+    "reviewCount": 220,
+    "durationMinutes": 10,
+    "servings": 1,
+    "cuisines": ["Global"],
+    "mealTypes": ["Drink"],
+    "tags": ["Fresh", "Healthy"],
+    "searchableIngredients": ["mango"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 180,
+    "protein": 3,
+    "carbs": 40,
+    "fats": 2,
+    "ingredients": [
+      {"name": "Mango", "quantity": 1, "unit": "cup"},
+      {"name": "Milk", "quantity": 1, "unit": "cup"},
+      {"name": "Honey", "quantity": 1, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Add mango, milk, and honey to blender.",
+      "Blend until smooth.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Spaghetti Bolognese",
+    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500",
+    "rating": 4.8,
+    "reviewCount": 530,
+    "durationMinutes": 45,
+    "servings": 3,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Pasta", "Classic"],
+    "searchableIngredients": ["pasta", "beef"],
+    "difficulty": "medium",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 600,
+    "protein": 28,
+    "carbs": 70,
+    "fats": 22,
+    "ingredients": [
+      {"name": "Spaghetti", "quantity": 250, "unit": "g"},
+      {"name": "Ground Beef", "quantity": 200, "unit": "g"},
+      {"name": "Tomato Sauce", "quantity": 1, "unit": "cup"}
+    ],
+    "steps": [
+      "Cook spaghetti according to instructions.",
+      "Cook beef in pan until browned.",
+      "Add tomato sauce and simmer.",
+      "Mix with pasta and serve."
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Greek Yogurt Bowl",
+    "imageUrl": "https://images.unsplash.com/photo-1589308078050-832c6a0a0b8c?w=500",
+    "rating": 4.5,
+    "reviewCount": 180,
+    "durationMinutes": 5,
+    "servings": 1,
+    "cuisines": ["Mediterranean"],
+    "mealTypes": ["Breakfast", "Snack"],
+    "tags": ["Healthy", "Protein"],
+    "searchableIngredients": ["yogurt"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fats": 8,
+    "ingredients": [
+      {"name": "Greek Yogurt", "quantity": 1, "unit": "cup"},
+      {"name": "Honey", "quantity": 1, "unit": "tbsp"},
+      {"name": "Nuts", "quantity": 2, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Add yogurt to bowl.",
+      "Top with honey and nuts.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Tacos",
+    "imageUrl": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=500",
+    "rating": 4.7,
+    "reviewCount": 390,
+    "durationMinutes": 30,
+    "servings": 3,
+    "cuisines": ["Mexican"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Street Food", "Spicy"],
+    "searchableIngredients": ["tortilla"],
+    "difficulty": "medium",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fats": 22,
+    "ingredients": [
+      {"name": "Tortillas", "quantity": 6, "unit": "pc"},
+      {"name": "Chicken", "quantity": 200, "unit": "g"},
+      {"name": "Lettuce", "quantity": 1, "unit": "cup"}
+    ],
+    "steps": [
+      "Cook chicken with spices.",
+      "Warm tortillas.",
+      "Fill with chicken and lettuce.",
+      "Fold and serve."
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Dal Tadka",
+    "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc500f?w=500",
+    "rating": 4.8,
+    "reviewCount": 480,
+    "durationMinutes": 35,
+    "servings": 3,
+    "cuisines": ["Indian"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Comfort Food", "Protein"],
+    "searchableIngredients": ["lentils"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": true,
+    "calories": 300,
+    "protein": 14,
+    "carbs": 40,
+    "fats": 8,
+    "ingredients": [
+      {"name": "Lentils", "quantity": 1, "unit": "cup"},
+      {"name": "Garlic", "quantity": 3, "unit": "clove"},
+      {"name": "Ghee", "quantity": 1, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Cook lentils until soft.",
+      "Prepare tadka with garlic and spices.",
+      "Mix tadka into dal.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Caesar Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=500",
+    "rating": 4.6,
+    "reviewCount": 250,
+    "durationMinutes": 15,
+    "servings": 2,
+    "cuisines": ["Italian"],
+    "mealTypes": ["Lunch"],
+    "tags": ["Healthy", "Salad"],
+    "searchableIngredients": ["lettuce"],
+    "difficulty": "easy",
+    "isVeg": false,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 280,
+    "protein": 10,
+    "carbs": 12,
+    "fats": 20,
+    "ingredients": [
+      {"name": "Lettuce", "quantity": 2, "unit": "cup"},
+      {"name": "Croutons", "quantity": 1, "unit": "cup"},
+      {"name": "Caesar Dressing", "quantity": 3, "unit": "tbsp"}
+    ],
+    "steps": [
+      "Chop lettuce and place in bowl.",
+      "Add croutons and dressing.",
+      "Toss well and serve."
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Kadai Paneer",
+    "imageUrl": "https://shwetainthekitchen.com/wp-content/uploads/2022/06/Kadai-Paneer.jpg",
+    "rating": 4.7,
+    "reviewCount": 420,
+    "durationMinutes": 35,
+    "servings": 3,
+    "cuisines": ["Indian"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "tags": ["Spicy", "Vegetarian"],
+    "searchableIngredients": ["paneer", "capsicum"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": true,
+    "calories": 420,
+    "protein": 17,
+    "carbs": 18,
+    "fats": 30,
+    "ingredients": [
+      {"name": "Paneer", "quantity": 200, "unit": "g"},
+      {"name": "Capsicum", "quantity": 1, "unit": "cup"},
+      {"name": "Onion", "quantity": 1, "unit": "medium"},
+      {"name": "Tomato", "quantity": 2, "unit": "medium"},
+      {"name": "Kadai Masala", "quantity": 2, "unit": "tsp"}
+    ],
+    "steps": [
+      "Heat oil and sauté onions and capsicum.",
+      "Add tomatoes and cook until soft.",
+      "Mix in kadai masala and spices.",
+      "Add paneer cubes and cook for 5–7 minutes.",
+      "Serve hot with roti or naan."
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Avocado Toast",
+    "imageUrl": "https://images.unsplash.com/photo-1588137378633-dea1336ce1e2?w=500",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "durationMinutes": 10,
+    "servings": 1,
+    "cuisines": ["Global"],
+    "mealTypes": ["Breakfast"],
+    "tags": ["Healthy", "Quick"],
+    "searchableIngredients": ["avocado"],
+    "difficulty": "easy",
+    "isVeg": true,
+    "isVegan": true,
+    "isGlutenFree": false,
+    "calories": 250,
+    "protein": 6,
+    "carbs": 20,
+    "fats": 16,
+    "ingredients": [
+      {"name": "Bread", "quantity": 2, "unit": "slice"},
+      {"name": "Avocado", "quantity": 1, "unit": "pc"},
+      {"name": "Salt", "quantity": 1, "unit": "tsp"}
+    ],
+    "steps": [
+      "Toast the bread slices.",
+      "Mash avocado and spread on toast.",
+      "Add salt and serve."
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Nutty Chocolate Brownies",
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500",
+    "rating": 4.8,
+    "reviewCount": 720,
+    "durationMinutes": 50,
+    "servings": 4,
+    "cuisines": ["Global"],
+    "mealTypes": ["Dessert"],
+    "tags": ["Chocolate", "Nutty", "Baked"],
+    "searchableIngredients": ["chocolate", "nuts"],
+    "difficulty": "medium",
+    "isVeg": true,
+    "isVegan": false,
+    "isGlutenFree": false,
+    "calories": 500,
+    "protein": 7,
+    "carbs": 55,
+    "fats": 30,
+    "ingredients": [
+      {"name": "Chocolate", "quantity": 200, "unit": "g"},
+      {"name": "Butter", "quantity": 100, "unit": "g"},
+      {"name": "Flour", "quantity": 1, "unit": "cup"},
+      {"name": "Sugar", "quantity": 1, "unit": "cup"},
+      {"name": "Walnuts", "quantity": 0.5, "unit": "cup"}
+    ],
+    "steps": [
+      "Melt chocolate and butter together.",
+      "Mix sugar into the melted mixture.",
+      "Add flour and fold gently.",
+      "Stir in chopped walnuts.",
+      "Pour into tray and bake at 180°C for 25 minutes.",
+      "Cool and slice into squares."
+    ]
+  }
+]
