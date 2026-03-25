@@ -47,7 +47,6 @@ class RecipeCard extends StatelessWidget {
           borderRadius: BorderRadius.circular(borderRadius),
           child: Stack(
             children: [
-              /// ✅ Cached Image with Shimmer
               Positioned.fill(
                 child: CachedNetworkImage(
                   imageUrl: recipe.imageUrl,
@@ -59,14 +58,11 @@ class RecipeCard extends StatelessWidget {
                     child: Container(color: Colors.white),
                   ),
 
-                  errorWidget: (context, url, error) => Image.asset(
-                    AppImageProvider.appLogo,
-                    fit: BoxFit.cover,
-                  ),
+                  errorWidget: (context, url, error) =>
+                      Image.asset(AppImageProvider.appLogo, fit: BoxFit.cover),
                 ),
               ),
 
-              /// ✅ Gradient Overlay (smooth)
               Positioned.fill(
                 child: Container(
                   decoration: BoxDecoration(
@@ -82,15 +78,12 @@ class RecipeCard extends StatelessWidget {
                 ),
               ),
 
-              /// ✅ Favorite Button (improved)
               Positioned(
                 top: 10,
                 right: 10,
                 child: GestureDetector(
                   onTap: () {
-                    context.read<RecipeBloc>().add(
-                          ToggleFavorite(recipe.id),
-                        );
+                    context.read<RecipeBloc>().add(ToggleFavorite(recipe.id));
                   },
                   child: Container(
                     padding: const EdgeInsets.all(7),
@@ -100,16 +93,13 @@ class RecipeCard extends StatelessWidget {
                     ),
                     child: Icon(
                       isFav ? Icons.favorite : Icons.favorite_border,
-                      color: isFav
-                          ? colorScheme.primary
-                          : Colors.white,
+                      color: isFav ? colorScheme.primary : Colors.white,
                       size: 18,
                     ),
                   ),
                 ),
               ),
 
-              /// ✅ Bottom Content
               Positioned(
                 left: 12,
                 right: 12,
@@ -131,11 +121,7 @@ class RecipeCard extends StatelessWidget {
 
                     Row(
                       children: [
-                        Icon(
-                          Icons.star,
-                          color: colorScheme.primary,
-                          size: 14,
-                        ),
+                        Icon(Icons.star, color: colorScheme.primary, size: 14),
                         const SizedBox(width: 4),
 
                         Text(

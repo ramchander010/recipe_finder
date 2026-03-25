@@ -22,7 +22,7 @@ class _LoginScreenState extends State<LoginScreen> {
   final TextEditingController _nameController = TextEditingController();
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
-  UnitType _selectedUnit = UnitType.metric;
+  UnitType selectedUnit = UnitType.metric;
 
   String _formatName(String value) {
     if (value.isEmpty) return value;
@@ -34,51 +34,12 @@ class _LoginScreenState extends State<LoginScreen> {
       final name = _formatName(_nameController.text.trim());
 
       context.read<AuthBloc>().add(
-        SaveUser(name: name, unit: _selectedUnit.name),
+        SaveUser(name: name, unit: selectedUnit.name),
       );
     }
   }
 
-  Widget _unitCard({
-    required String title,
-    required String subtitle,
-    required bool isSelected,
-    required VoidCallback onTap,
-  }) {
-    return GestureDetector(
-      onTap: onTap,
-      child: Container(
-        padding: const EdgeInsets.all(14),
-        decoration: BoxDecoration(
-          color: isSelected
-              ? AppColors.primary.withOpacity(0.08)
-              : AppColors.cardColor,
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(
-            color: isSelected
-                ? AppColors.primary
-                : AppColors.textSecondary.withOpacity(0.2),
-          ),
-        ),
-        child: Row(
-          children: [
-            Icon(
-              isSelected ? Icons.radio_button_checked : Icons.radio_button_off,
-              color: isSelected ? AppColors.primary : AppColors.textSecondary,
-            ),
-            const SizedBox(width: 12),
-            Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(title, style: Theme.of(context).textTheme.titleMedium),
-                Text(subtitle, style: Theme.of(context).textTheme.bodyMedium),
-              ],
-            ),
-          ],
-        ),
-      ),
-    );
-  }
+ 
 
   @override
   Widget build(BuildContext context) {
@@ -191,51 +152,6 @@ class _LoginScreenState extends State<LoginScreen> {
 
                   const SizedBox(height: 40),
 
-                  // Row(
-                  //   children: [
-                  //     Text(
-                  //       "Preferred Units",
-                  //       style: Theme.of(context).textTheme.titleMedium,
-                  //     ),
-                  //     const SizedBox(width: 6),
-                  //     Tooltip(
-                  //       message:
-                  //           "You can change this anytime later in settings",
-                  //       textStyle: Theme.of(
-                  //         context,
-                  //       ).textTheme.bodySmall?.copyWith(color: Colors.white),
-                  //       decoration: BoxDecoration(
-                  //         color: AppColors.black,
-                  //         borderRadius: BorderRadius.circular(6),
-                  //       ),
-                  //       child: const Icon(
-                  //         Icons.info_outline,
-                  //         size: 18,
-                  //         color: AppColors.textSecondary,
-                  //       ),
-                  //     ),
-                  //   ],
-                  // ),
-
-                  // const SizedBox(height: 16),
-
-                  // _unitCard(
-                  //   title: "Metric",
-                  //   subtitle: "grams, ml, °C",
-                  //   isSelected: _selectedUnit == UnitType.metric,
-                  //   onTap: () =>
-                  //       setState(() => _selectedUnit = UnitType.metric),
-                  // ),
-
-                  // const SizedBox(height: 12),
-
-                  // _unitCard(
-                  //   title: "Imperial",
-                  //   subtitle: "ounces, cups, °F",
-                  //   isSelected: _selectedUnit == UnitType.imperial,
-                  //   onTap: () =>
-                  //       setState(() => _selectedUnit = UnitType.imperial),
-                  // ),
                   const Spacer(),
 
                   MyCustomButton(myText: "Continue", onTap: _submit),

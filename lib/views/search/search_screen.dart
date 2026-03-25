@@ -42,7 +42,6 @@ class _SearchScreenState extends State<SearchScreen> {
     _speechSubscription = speechBloc.stream.listen((state) {
       if (!mounted) return;
 
-      /// Live update (while speaking)
       if (state.isListening && state.text.isNotEmpty) {
         controller.text = state.text;
         controller.selection = TextSelection.fromPosition(
@@ -50,21 +49,15 @@ class _SearchScreenState extends State<SearchScreen> {
         );
       }
 
-      /// ✅ Speech completed → trigger search
       if (!state.isListening && state.text.isNotEmpty) {
         final finalText = state.text;
 
-        /// 🔥 trigger search FIRST
         _onSearchChanged(finalText);
 
-        // /// 🔥 clear ONLY controller (not immediately wiping UX)
-        // controller.clear();
 
-        /// 🔥 clear bloc state (VERY IMPORTANT)
         context.read<SpeechBloc>().add(ClearSpeech());
       }
 
-      /// Error
       if (state.error != null) {
         ScaffoldMessenger.of(
           context,
@@ -76,7 +69,7 @@ class _SearchScreenState extends State<SearchScreen> {
   StreamSubscription? _speechSubscription;
   @override
   void dispose() {
-    _speechSubscription?.cancel(); // ✅ FIX CRASH
+    _speechSubscription?.cancel();  
     controller.dispose();
     _debounce?.cancel();
     super.dispose();
@@ -152,7 +145,6 @@ class _SearchScreenState extends State<SearchScreen> {
                     suffixIcon: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        /// Clear button (existing)
                         ValueListenableBuilder<TextEditingValue>(
                           valueListenable: controller,
                           builder: (context, value, _) {
@@ -174,7 +166,6 @@ class _SearchScreenState extends State<SearchScreen> {
                           },
                         ),
 
-                        /// 🎙️ Mic Button
                         BlocBuilder<SpeechBloc, SpeechState>(
                           builder: (context, speechState) {
                             return GestureDetector(

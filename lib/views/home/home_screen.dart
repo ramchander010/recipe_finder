@@ -1,7 +1,6 @@
 // ignore_for_file: strict_top_level_inference, deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:recipe_app/core/theme/app_theme.dart';
 import 'package:recipe_app/views/home/widgets/home_recipe_listing_view.dart';
 import 'package:recipe_app/views/home/widgets/my_search_widget.dart';
 import 'package:recipe_app/views/search/search_screen.dart';

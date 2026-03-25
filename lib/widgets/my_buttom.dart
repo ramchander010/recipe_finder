@@ -47,10 +47,8 @@ class MyCustomButton extends StatelessWidget {
     return GestureDetector(
       onTap: isLoading == true ? () {} : onTap,
       onSecondaryTap: () {
-        // AppSnackBar.show('Please Wait');
       },
       onDoubleTap: () {
-        // AppSnackBar.show('Please Wait');
       },
       child: Container(
         margin: EdgeInsets.symmetric(

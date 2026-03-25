@@ -103,7 +103,7 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                   collapseMode: CollapseMode.parallax,
 
                   titlePadding: const EdgeInsets.only(
-                    left: 58,
+                    left: 50,
                     bottom: 14,
                     right: 16,
                   ),
@@ -142,7 +142,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      /// ⭐ META (clean row)
                       Row(
                         children: [
                           Text(
@@ -201,7 +200,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
                       const SizedBox(height: 12),
 
-                      /// 👥 SERVINGS
                       Text(
                         '${recipe.servings} servings',
                         style: AppTextStyles.bodyMedium.copyWith(
@@ -211,7 +209,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
                       const SizedBox(height: 16),
 
-                      /// 🏷 TAGS (minimal chips)
                       Wrap(
                         spacing: 6,
                         runSpacing: 6,
@@ -225,7 +222,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
                       const SizedBox(height: 28),
 
-                      /// 🍽 NUTRITION
                       _sectionTitle("🍽 Nutrition"),
                       const SizedBox(height: 12),
 
@@ -241,34 +237,9 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
                       const SizedBox(height: 28),
 
-                      /// 🧂 INGREDIENTS
                       _sectionTitle("🧂 Ingredients"),
                       const SizedBox(height: 12),
 
-                      // ...recipe.ingredients.map(
-                      //   (ing) => Padding(
-                      //     padding: const EdgeInsets.symmetric(vertical: 6),
-                      //     child: Row(
-                      //       children: [
-                      //         Container(
-                      //           height: 6,
-                      //           width: 6,
-                      //           decoration: const BoxDecoration(
-                      //             color: Colors.grey,
-                      //             shape: BoxShape.circle,
-                      //           ),
-                      //         ),
-                      //         const SizedBox(width: 10),
-                      //         Expanded(
-                      //           child: Text(
-                      //             ing.name,
-                      //             style: AppTextStyles.bodyMedium,
-                      //           ),
-                      //         ),
-                      //       ],
-                      //     ),
-                      //   ),
-                      // ),
                       ...recipe.ingredients.map((ing) {
                         final isAdded = _isIngredientAdded(
                           context,
@@ -290,7 +261,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                               ),
                               const SizedBox(width: 10),
 
-                              /// Ingredient name
                               Expanded(
                                 child: Text(
                                   ing.name,
@@ -298,7 +268,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                                 ),
                               ),
 
-                              /// ➕ / ✅ Button
                               InkWell(
                                 borderRadius: BorderRadius.circular(20),
                                 onTap: () {
@@ -338,7 +307,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
                       const SizedBox(height: 28),
 
-                      /// 👨‍🍳 STEPS
                       _sectionTitle("👨‍🍳 Steps"),
                       const SizedBox(height: 12),
 
@@ -433,7 +401,7 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
   Widget _nutri(String label, int value) {
     return Container(
-      width: 70, // keeps all boxes aligned
+      width: 70,
       padding: const EdgeInsets.symmetric(vertical: 12),
 
       decoration: BoxDecoration(
@@ -480,7 +448,6 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
   Future<void> _showSnack(BuildContext context, String message) async {
     final now = DateTime.now();
 
-    // ✅ debounce
     if (_lastSnackTime != null &&
         now.difference(_lastSnackTime!) < const Duration(milliseconds: 500)) {
       return;
@@ -502,12 +469,10 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
 
         content: Row(
           children: [
-            /// Message
             Expanded(
               child: Text(message, style: const TextStyle(color: Colors.white)),
             ),
 
-            /// ✅ YOUR BUTTON (replaces SnackBarAction)
             GestureDetector(
               onTap: () {
                 messenger.hideCurrentSnackBar();

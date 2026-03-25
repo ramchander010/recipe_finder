@@ -100,9 +100,7 @@ Widget _empty() {
     child: Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        // Icon(Icons.shopping_bag_outlined, size: 70),
         Lottie.asset(AppImageProvider.emptyCart),
-        // SizedBox(height: 12),
         Text(
           "No shopping lists",
           style: AppTextStyles.w600.copyWith(fontSize: 18),

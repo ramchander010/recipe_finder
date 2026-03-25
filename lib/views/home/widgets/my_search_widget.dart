@@ -82,7 +82,6 @@ class _AnimatedSearchBarState extends State<AnimatedSearchBar> {
           ),
           child: Row(
             children: [
-              /// 🔍 Icon
               Container(
                 padding: const EdgeInsets.all(8),
                 decoration: BoxDecoration(
@@ -94,7 +93,6 @@ class _AnimatedSearchBarState extends State<AnimatedSearchBar> {
 
               const SizedBox(width: 12),
 
-              /// ✨ Animated Hint
               Expanded(
                 child: AnimatedSwitcher(
                   duration: const Duration(milliseconds: 400),
@@ -119,7 +117,6 @@ class _AnimatedSearchBarState extends State<AnimatedSearchBar> {
                 ),
               ),
 
-              /// ⚙️ Filter icon
               Icon(Icons.tune, color: colorScheme.onSurface.withOpacity(0.5)),
             ],
           ),

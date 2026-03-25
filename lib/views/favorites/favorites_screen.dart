@@ -43,17 +43,13 @@ class FavoritesScreen extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  // Icon(
-                  //   Icons.favorite_border,
-                  //   size: 48,
-                  //   color: colorScheme.primary.withOpacity(0.6),
-                  // ),
+                
                   ClipRRect(
                     borderRadius: BorderRadius.circular(
                       20,
                     ),
                     child: Container(
-                      color: AppColors.background, // remove white feel
+                      color: AppColors.background, 
                       child: Lottie.asset(
                         "assets/images/no_favorites.json",
                         width: MediaQuery.of(context).size.width * .8,
